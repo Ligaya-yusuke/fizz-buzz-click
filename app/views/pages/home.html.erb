@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>課題②</title>
+  <style>
+    input{
+      width:170px;
+    }  
+    ul{
+      list-style: none;
+      padding-inline-start: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fizz Buzz Clicker</h1>
+  <p>空欄に二桁以下の整数を入れてください。</p>
+    FizzNum: <input type = "text" id = "fizz" placeholder = "整数値を入力してください" maxlength = "2">
+    <br>BuzzNum: <input type = "text" id = "buzz" placeholder = "整数値を入力してください" maxlength= "2">
+    <br><button id = "button">実行</button>
+    <p>【出力】</p>
+      <ul id = "ul">
+      </ul>
+    <%# <script src = "jsq2.js"></script> %>
+    <%= javascript_pack_tag 'pages/home' %>
+</body>
+</html>
