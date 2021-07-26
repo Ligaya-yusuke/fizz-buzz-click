@@ -18,6 +18,12 @@ https://camo.qiitausercontent.com/4ae173305d97b88e358706b1db489bba968376f9/68747
 - 各々倍数と一緒にfizz、buzzと表示させる
 - 両方の倍数である時にはfizzBuzzと表示させる
 
+#今後
+- docker導入
+- AWS(EC2)で実践
+- 単体テスト(JEST)
+- vue導入
+
 # Product Name
 FizzBuzz Clicker
 
