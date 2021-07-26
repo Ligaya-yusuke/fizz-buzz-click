@@ -1,6 +1,6 @@
 # 成果物名
 クリックでFizzBuzz
-<br>URL: 
+<br>URL: https://agile-depths-24252.herokuapp.com/
 <br>Qiita: https://qiita.com/Ligayan/items/a80a105124796e7fe837
 
 # 概要/Overview
@@ -17,6 +17,25 @@ https://camo.qiitausercontent.com/4ae173305d97b88e358706b1db489bba968376f9/68747
 - fizzNumに入力された二桁以内の整数値の倍数とbuzzNumに入力された値の倍数を小さい順に表示する
 - 各々倍数と一緒にfizz、buzzと表示させる
 - 両方の倍数である時にはfizzBuzzと表示させる
+
+# バージョン
+Ruby 2.6.6
+Rails 6.1.4
+
+- フロントエンド
+HTML
+JavaScript
+
+- バックエンド
+-- Rails
+
+データベース
+-- PostgerSQL
+
+- インフラ
+-- Heroku
+-- Github
+
 
 #今後
 - docker導入
