@@ -3,7 +3,7 @@
 <br>URL: https://agile-depths-24252.herokuapp.com/
 <br>Qiita: https://qiita.com/Ligayan/items/a80a105124796e7fe837
 
-# 概要/Overview
+# 概要
 - 二桁以内の数字を2つ入力し、ボタンをクリックすると、入力された値の倍数が小さい順に表示
 - 各々倍数と一緒にfizz、buzzと表示
 - 両方の倍数である時にはfizzBuzzと表示
